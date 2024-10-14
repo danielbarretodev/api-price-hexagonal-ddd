@@ -24,7 +24,7 @@ Se ha añadido también una version del script de creación de la base de datos 
 Para más información se puede consultar la documentación de Swagger
 
 ```
-applicationDate -> 2020-06-14-10.00.00
+applicationDate -> 2020-06-14 10:00:00
 productId -> 35455
 brandId -> 1
 ```
@@ -47,10 +47,8 @@ Se ha añadido la interfaz Swagger-ui para poder probar todos los métodos de la
 
 [Enlace a Swagger](http://localhost:8080/swagger-ui/index.html#)
 
-
 ## Ejecutar los test
 
 ```bash
 mvn test
 ```
-
